@@ -166,7 +166,7 @@ def handle_disconnected(device_info: dict) -> None:
 # Core monitoring loop
 # ---------------------------------------------------------------------------
 
-def monitor(wmi_factory=None, allowlist: list | None = None) -> None:  # noqa: UP007
+def monitor(wmi_factory=None, allowlist: list | None = None) -> None:
     """Run the USB monitoring loop.
 
     *wmi_factory* is a zero-argument callable that returns a WMI instance.
