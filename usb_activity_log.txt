@@ -1,0 +1,2 @@
+[2026-02-02 18:51:18] Script started without admin privileges
+[2026-02-02 18:51:18] Monitoring started
